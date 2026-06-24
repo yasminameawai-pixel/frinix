@@ -1,7 +1,7 @@
 
 team:Horizon 
 FriNiX
-print<"/n"> 
+..... 
 Vision and Main Goal
 This is an AI-powered smartwatch specifically designed to monitor and detect psychological stress in children in real time, enabling parents to understand their child's unspoken emotional state and intervene early to support them.
 
